@@ -1,0 +1,41 @@
+
+.para1{
+    font-size: xx-large;
+    margin-top: 50px;
+}
+.para2{
+    font-size: larger;
+}
+.btn1{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin: 40px;
+   margin-top: 120px;
+   background-color: rebeccapurple;
+  font-size: larger;
+
+}
+
+.btn2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 40px;
+    margin-top: 120px;
+    background-color:rebeccapurple ;
+    font-size: larger;
+ }
+
+ .btn3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 40px;
+    margin-top: 120px;
+    background-color:rebeccapurple ;
+    font-size: larger;
+ }
